@@ -611,14 +611,14 @@ disqus:
 # Demo: https://suka.js.org/DisqusJS/
 # For more information: https://github.com/SukkaW/DisqusJS
 disqusjs:
-  enable: false
+  enable: true
   # API Endpoint of Disqus API (https://disqus.com/api/).
   # Leave api empty if you are able to connect to Disqus API. Otherwise you need a reverse proxy for it.
   # For example:
   # api: https://disqus.skk.moe/disqus/
   api:
-  apikey: # Register new application from https://disqus.com/api/applications/
-  shortname: # See: https://disqus.com/admin/settings/general/
+  apikey: NpqiQba0TkJmnTdFwbrNytcMRMgSwuuTesbpFyOgBHSaORjJOrqIV0lEA2MRyAKB # Register new application from https://disqus.com/api/applications/
+  shortname: jiukun # See: https://disqus.com/admin/settings/general/
 
 # Changyan
 changyan:
